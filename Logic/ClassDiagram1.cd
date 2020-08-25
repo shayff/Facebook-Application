@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logic.EventAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAwAAAgAAAACAAAIoAgAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Adapter\EventAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic.UserAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAwAAAgAAAAAAAAIoAoAAAAAAQAABAAAAA=</HashCode>
+      <FileName>Adapter\UserAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic.AppSetting" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>AppSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.FriendsMatcher" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAEAAAAAgAAAA=</HashCode>
+      <FileName>FriendsMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.FriendsWithRank" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>FriendsWithRank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Logger" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Facades.CalendarManager">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Facades\CalendarManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Facades.LoginManager">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAAAQAAAAAABAKIAAAAIAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Facades\LoginManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Facades.RankedFriendsManager" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAA=</HashCode>
+      <FileName>Facades\RankedFriendsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Logic.ICalendarItem" Collapsed="true">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAwAAAgAAAAAAAAIoAgAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Adapter\ICalendarItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
